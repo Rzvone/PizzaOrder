@@ -1,14 +1,14 @@
 
-#Pizza Order Werbsite
+# Pizza Order Website
 
-##Project Description
+## Project Description
 This was a team project by that time, as a team we have learned just the basics of WEB development. Throughout this project we managed to create a website for the fictional local pizza joint 'PizzaExpress'.
 
 ![Pizza0](https://github.com/Rzvone/PizzaOrder/assets/110209407/2139acab-8490-4705-a36f-0f20a80a376a)
 
 
 
-##Technologies Used
+## Technologies Used
   - ExpressJS : to start the backend of the website
   - JavaScript : to implement the logic of the website
   - Bootstrap, HTML & CSS : to render and stylise the frontend
@@ -25,15 +25,15 @@ At that point in time some of the challenges we've encountered were:
   - Storing the form
 
 
-##Setup
-##Backend Setup
+## Setup
+### Backend Setup
 
   - Access the server directory and afterwards run the command npm install followed by nodemon server.js or npx nodemon server.js to start the backend of the website.
   - You shall be prompted with the following message in the terminal:
 ![backendSrv](https://github.com/Rzvone/PizzaOrder/assets/110209407/cf022f61-da27-4215-b67f-6ad4458e4995)
 
 
-##Frontend Setup
+### Frontend Setup
 
   - Open a new terminal and access the client directory and run the command npm install.
   - Access the backend directory and afterwards run the command nodemon server.js or npx nodemon server.js to start the website's interface.
@@ -43,4 +43,6 @@ At that point in time some of the challenges we've encountered were:
 ![Pizza3](https://github.com/Rzvone/PizzaOrder/assets/110209407/4dd47d77-e384-4b7e-93c8-f5ada629ab01)
 
 
-
+## Contributors
+  - [Alex Vieru](https://github.com/alexvieru1)
+  - [Mihnea Zarafin](https://github.com/mhnn99)
